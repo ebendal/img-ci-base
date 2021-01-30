@@ -9,4 +9,5 @@ RUN apt-get update -q && apt-get install -q -y \
     ca-certificates \
     unzip \
     curl \
-    jq
+    jq \
+    gnupg2
